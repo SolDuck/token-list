@@ -24831,7 +24831,7 @@
       "address": "4GdUtvpNkEnrwykQRwyamtc2Pd6pQcA9oNsWzttaeRrN",
       "symbol": "SDUCK",
       "name": "SolDuck",
-      "decimals": 8,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/assets/mainnet/4GdUtvpNkEnrwykQRwyamtc2Pd6pQcA9oNsWzttaeRrN/logo.png",
       "tags": [
         "community token"
