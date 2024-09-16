@@ -24843,6 +24843,21 @@
     },
     {
       "chainId": 101,
+      "address": "4GdUtvpNkEnrwykQRwyamtc2Pd6pQcA9oNsWzttaeRrN",
+      "symbol": "SDUCK",
+      "name": "SolDuck",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/assets/mainnet/4GdUtvpNkEnrwykQRwyamtc2Pd6pQcA9oNsWzttaeRrN/logo.png",
+      "tags": [
+        "community token"
+              "NFT"],
+      "extensions": {
+        "medium":"https://medium.com/@Solduck",
+        "twitter": "https://twitter.com/SolDuck1"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z",
       "symbol": "weSHIB",
       "name": "Wrapped Shiba Inu (Wormhole)",
